@@ -1,3 +1,5 @@
 # USB_LEDs_2835
-This is a layout of a USB LEDs with SMD LED component imperial code 2835.
-![image](https://user-images.githubusercontent.com/65590803/213876021-3c102c2e-fb72-486b-a01e-08faba187b80.png)
+This is a layout of a USB LEDs with SMD LED component imperial code 2835. 
+This is the showcase of the finished layout.
+![image](https://user-images.githubusercontent.com/65590803/213876217-364791d2-d3b7-464a-af23-6acd757ebaf3.png)
+
