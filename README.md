@@ -9,7 +9,7 @@ Length - 100mm
 Width - 20mm
 
 Circuit layout Version 2  
-![image](https://user-images.githubusercontent.com/65590803/218313635-5539301d-0df4-447a-b62c-783759d27bcc.png)
+![image](https://user-images.githubusercontent.com/65590803/218314217-64a25081-7922-4ba2-9541-ce352652c7e1.png) 
 Changelog: 
 1. Added from 28 LEDs to 32 LEDs. 
 2. Reposition all LEDs from diagonal positions to horizontal positions.  
