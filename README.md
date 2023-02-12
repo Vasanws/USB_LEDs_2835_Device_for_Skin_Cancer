@@ -18,3 +18,4 @@ Changelog:
 5. Reposition other components from diagonal positions to vertical and horizontal positions.  
 6. Reduce the radius Front Courtyard for both mounting hole to 0.4mm radius.  
 7. The copper filler for the LED connections are set to, Pad connections: Thermal reliefs, Thermal relief gap: 0.2mm, Thermal spoke width: 0.8mm. 
+8. All resistor and capacitor have been changed from 0603 to 0402 except Rx1 from 0603 to 1206. 
