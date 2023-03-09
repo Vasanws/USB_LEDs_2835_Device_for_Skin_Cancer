@@ -25,3 +25,6 @@ Circuit layout Version 3
 Changelog:  
 1. Added two jumper in the layout for touch sensor. 
 2. Expend the copper fill between the LEDS. 
+  
+Schematic diagram of the layout:  
+![image](https://user-images.githubusercontent.com/65590803/224089222-8b1b0d83-bec3-474d-9b77-f5e4f085fdd3.png)
