@@ -21,7 +21,7 @@ Changelog:
 8. All resistor and capacitor have been changed from 0603 to 0402 except Rx1 from 0603 to 1206. 
 
 Circuit layout Version 3  
-![image](https://user-images.githubusercontent.com/65590803/224088460-ff17a1e2-5422-4c82-8fe8-4a378425c66a.png)
+![image](https://user-images.githubusercontent.com/65590803/224206291-dd83e906-76fb-4b8b-b37f-7437919a0ccc.png)
 Changelog:  
 1. Added two jumper in the layout for touch sensor. 
 2. Expend the copper fill between the LEDS. 
