@@ -25,6 +25,14 @@ Circuit layout Version 3
 Changelog:  
 1. Added two jumper in the layout for touch sensor. 
 2. Expend the copper fill between the LEDS. 
+
+Circuit layout Version 4  
+![image](https://user-images.githubusercontent.com/65590803/224543723-4ba3fb3a-be8f-4db2-bc5b-2ec5332dd657.png)
+Changelog:  
+1. Edit LED footprint distance between two pads = 0.61mm. 
+2. Route crisscross tracer between LEDs to LED's driver.  
+3. Additional tracer for 5V pass through between the LED footprint with tracer size 0.2mm.  
+4. Replace R1 footprint from 0402 to 0603.  
   
 Schematic diagram of the layout:  
 ![image](https://user-images.githubusercontent.com/65590803/224089222-8b1b0d83-bec3-474d-9b77-f5e4f085fdd3.png)
