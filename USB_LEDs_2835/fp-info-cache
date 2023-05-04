@@ -1,4 +1,4 @@
-20247830460917464
+20251185764367692
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6308,6 +6308,13 @@ pin header 3-pin CPU fan
 3
 Connector
 FanPinHeader_1x04_P2.54mm_Vertical
+4-pin CPU fan Through hole pin header, e.g. for Wieson part number 2366C888-007 Molex 47053-1000, Foxconn HF27040-M1, Tyco 1470947-1 or equivalent, see http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf
+pin header 4-pin CPU fan
+0
+4
+4
+Connector
+FanPinHeader_1x04_P2.54mm_Vertical_custom
 4-pin CPU fan Through hole pin header, e.g. for Wieson part number 2366C888-007 Molex 47053-1000, Foxconn HF27040-M1, Tyco 1470947-1 or equivalent, see http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf
 pin header 4-pin CPU fan
 0
@@ -56722,6 +56729,13 @@ LED handsolder
 2
 LED_SMD
 LED_2835
+https://www.luckylight.cn/media/component/data-sheet/R2835BC-B2M-M10.pdf
+LED
+0
+2
+2
+LED_SMD
+LED_2835_custom_margin
 https://www.luckylight.cn/media/component/data-sheet/R2835BC-B2M-M10.pdf
 LED
 0
