@@ -35,4 +35,9 @@ Changelog:
 4. Replace R1 footprint from 0402 to 0603.  
   
 Schematic diagram of the layout:  
-![image](https://user-images.githubusercontent.com/65590803/224089222-8b1b0d83-bec3-474d-9b77-f5e4f085fdd3.png)
+![image](https://user-images.githubusercontent.com/65590803/224089222-8b1b0d83-bec3-474d-9b77-f5e4f085fdd3.png) 
+
+Circuit layout update
+Changelog:
+1. Added copper fill zone to unconnected footprint of the inverter logic (pin 1). Copper fill zone with settings zone priority level : 1, clearance : 0.2mm, Pad connections : Thermal reliefs, Thermal relief gap : 0.2mm
+2. Changed the size of CX1 footprint to 0603 and value to 22uF in schematic diagram.
