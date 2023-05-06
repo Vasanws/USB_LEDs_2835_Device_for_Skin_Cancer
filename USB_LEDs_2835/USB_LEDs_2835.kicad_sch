@@ -2442,7 +2442,7 @@
     (property "Value" "1N4148WS" (id 1) (at 105.283 79.3749 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323" (id 2) (at 98.298 78.105 0)
+    (property "Footprint" "Diode_SMD:D_SOD-323_custom" (id 2) (at 98.298 78.105 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (id 3) (at 102.743 78.105 0)
@@ -2996,7 +2996,7 @@
       (reference "D32") (unit 1) (value "660nm") (footprint "LED_SMD:LED_2835_custom_margin")
     )
     (path "/a4553eb6-c1f2-4b4d-a632-f4d917a8f586"
-      (reference "D33") (unit 1) (value "1N4148WS") (footprint "Diode_SMD:D_SOD-323")
+      (reference "D33") (unit 1) (value "1N4148WS") (footprint "Diode_SMD:D_SOD-323_custom")
     )
     (path "/076783c6-7e48-4539-88e9-ef3e20bf1349"
       (reference "D34") (unit 1) (value "SS14") (footprint "Diode_SMD:D_SMA")

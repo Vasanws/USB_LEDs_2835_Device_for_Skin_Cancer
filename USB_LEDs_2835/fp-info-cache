@@ -1,4 +1,4 @@
-20251185764367692
+20252869152356145
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -50611,6 +50611,13 @@ SOD-323F
 2
 Diode_SMD
 D_SOD-323_HandSoldering
+SOD-323
+SOD-323
+0
+2
+2
+Diode_SMD
+D_SOD-323_custom
 SOD-323
 SOD-323
 0
