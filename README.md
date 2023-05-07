@@ -41,3 +41,10 @@ Circuit layout update
 Changelog:
 1. Added copper fill zone to unconnected footprint of the inverter logic (pin 1). Copper fill zone with settings zone priority level : 1, clearance : 0.2mm, Pad connections : Thermal reliefs, Thermal relief gap : 0.2mm
 2. Changed the size of CX1 footprint to 0603 and value to 22uF in schematic diagram.
+    
+PCB layout update   
+Changelog:    
+1. Custom made footprint SOD-323 for D33 based on the measurement of this model https://www.vishay.com/docs/85751/1n4148ws.pdf    
+2. Rearrange the components to be closer and allow some spaces for larger components.   
+3. Added copper fill 5V to fill in the empty spaces on the left side of the board.    
+4. Retrace the track of the connection for cleaner connection.    
