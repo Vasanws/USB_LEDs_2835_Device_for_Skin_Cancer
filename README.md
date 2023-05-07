@@ -43,6 +43,7 @@ Changelog:
 2. Changed the size of CX1 footprint to 0603 and value to 22uF in schematic diagram.
     
 PCB layout update   
+![image](https://user-images.githubusercontent.com/65590803/236684770-02f4bac5-2452-4966-8312-da291a6a2222.png)   
 Changelog:    
 1. Custom made footprint SOD-323 for D33 based on the measurement of this model https://www.vishay.com/docs/85751/1n4148ws.pdf    
 2. Rearrange the components to be closer and allow some spaces for larger components.   
