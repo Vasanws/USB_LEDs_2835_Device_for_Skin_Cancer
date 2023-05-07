@@ -38,8 +38,9 @@ Schematic diagram of the layout:
 ![image](https://user-images.githubusercontent.com/65590803/224089222-8b1b0d83-bec3-474d-9b77-f5e4f085fdd3.png) 
 
 Circuit layout update   
+![image](https://user-images.githubusercontent.com/65590803/236684982-30c755cc-171f-4d77-81c6-281ffcaf84ba.png)     
 Changelog:
-1. Added copper fill zone to unconnected footprint of the inverter logic (pin 1). Copper fill zone with settings zone priority level : 1, clearance : 0.2mm, Pad connections : Thermal reliefs, Thermal relief gap : 0.2mm
+1. Added copper fill zone to unconnected footprint of the inverter logic U3 (pin 1). Copper fill zone with settings zone priority level : 1, clearance : 0.2mm, Pad connections : Thermal reliefs, Thermal relief gap : 0.2mm
 2. Changed the size of CX1 footprint to 0603 and value to 22uF in schematic diagram.
     
 PCB layout update   
