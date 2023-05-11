@@ -1052,6 +1052,7 @@
     )
   )
 
+
   (junction (at 163.703 80.645) (diameter 0) (color 0 0 0 0)
     (uuid 01d5e6c5-9044-400c-861c-1d90c2039009)
   )
@@ -1632,7 +1633,7 @@
     (property "Reference" "C2" (id 0) (at 182.626 35.3122 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1u" (id 1) (at 182.626 37.8522 0)
+    (property "Value" "22u" (id 1) (at 182.626 37.8522 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 180.086 36.576 0)
@@ -1876,7 +1877,7 @@
     (property "Reference" "R3" (id 0) (at 144.653 79.375 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10k" (id 1) (at 151.003 79.375 0)
+    (property "Value" "200k" (id 1) (at 144.78 81.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 145.923 79.375 0)
@@ -1964,7 +1965,7 @@
     (property "Reference" "R1" (id 0) (at 134.493 79.375 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "5k" (id 1) (at 139.573 81.915 0)
+    (property "Value" "23.2k" (id 1) (at 134.62 81.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 135.763 79.375 0)
@@ -2179,7 +2180,7 @@
     (property "Reference" "R2" (id 0) (at 142.113 69.215 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10k" (id 1) (at 142.113 74.295 90)
+    (property "Value" "200k" (id 1) (at 143.51 73.66 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 140.843 71.755 0)
@@ -2386,7 +2387,7 @@
     (property "Reference" "Rx1" (id 0) (at 129.413 84.836 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100m" (id 1) (at 130.683 89.535 90)
+    (property "Value" "1.5" (id 1) (at 130.683 89.535 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric" (id 2) (at 128.143 86.995 0)
@@ -2885,7 +2886,7 @@
       (reference "C1") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/026f09c8-400d-46f9-844e-0be8161f9746"
-      (reference "C2") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C2") (unit 1) (value "22u") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/bc5de113-9719-4067-b963-db31416212e7"
       (reference "C3") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -3017,13 +3018,13 @@
       (reference "L1") (unit 1) (value "L_Ferrite_Small") (footprint "Inductor_SMD:L_0530_custom")
     )
     (path "/46b40edc-42cc-446d-adb2-e52631d88862"
-      (reference "R1") (unit 1) (value "5k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R1") (unit 1) (value "23.2k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/66fae963-db90-4b44-b511-1ffbefe55119"
-      (reference "R2") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R2") (unit 1) (value "200k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/2b40a6ef-b747-4e09-b1c9-aaa6bec91ed5"
-      (reference "R3") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R3") (unit 1) (value "200k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/b29813e7-e4cd-496d-bb16-c537eb2ab1d5"
       (reference "R4") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -3032,7 +3033,7 @@
       (reference "R6") (unit 1) (value "5k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/98753c78-a4c2-4a80-8ed5-3f6f93aecf71"
-      (reference "Rx1") (unit 1) (value "100m") (footprint "Resistor_SMD:R_1206_3216Metric")
+      (reference "Rx1") (unit 1) (value "1.5") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/437f8d09-8f17-4205-b86b-2fcaa45bda5d"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D2.50mm_Drill1.0mm")
