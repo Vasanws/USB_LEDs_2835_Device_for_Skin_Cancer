@@ -34,7 +34,7 @@ Changelog:
 3. Additional tracer for 5V pass through between the LED footprint with tracer size 0.2mm.  
 4. Replace R1 footprint from 0402 to 0603.  
   
-Schematic diagram of the layout:  
+Schematic diagram layout 1      
 ![image](https://user-images.githubusercontent.com/65590803/224089222-8b1b0d83-bec3-474d-9b77-f5e4f085fdd3.png) 
 
 Circuit layout update   
@@ -50,3 +50,8 @@ Changelog:
 2. Rearrange the components to be closer and allow some spaces for larger components.   
 3. Added copper fill 5V to fill in the empty spaces on the left side of the board.    
 4. Retrace the track of the connection for cleaner connection.    
+    
+Schematic diagran layout 2    
+![image](https://github.com/Vasanws/USB_LEDs_2835/assets/65590803/b9ab0257-a2d5-496a-b80c-b55690f03c37)
+Changelog:    
+1. Added TVS diode conneted to C2.    
