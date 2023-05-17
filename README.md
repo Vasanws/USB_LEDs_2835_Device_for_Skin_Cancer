@@ -8,7 +8,7 @@ Size of the layout
 Length - 100mm  
 Width - 20mm
 
-PCB layout Version 2  
+PCB layout update version 2  
 ![image](https://user-images.githubusercontent.com/65590803/218314217-64a25081-7922-4ba2-9541-ce352652c7e1.png) 
 Changelog: 
 1. Added from 28 LEDs to 32 LEDs. 
@@ -20,13 +20,13 @@ Changelog:
 7. The copper filler for the LED connections are set to, Pad connections: Thermal reliefs, Thermal relief gap: 0.2mm, Thermal spoke width: 0.8mm. 
 8. All resistor and capacitor have been changed from 0603 to 0402 except Rx1 from 0603 to 1206. 
 
-PCB layout Version 3  
+PCB layout update version 3  
 ![image](https://user-images.githubusercontent.com/65590803/224206291-dd83e906-76fb-4b8b-b37f-7437919a0ccc.png)
 Changelog:  
 1. Added two jumper in the layout for touch sensor. 
 2. Expend the copper fill between the LEDS. 
 
-PCB layout Version 4  
+PCB layout update version 4  
 ![image](https://user-images.githubusercontent.com/65590803/224543723-4ba3fb3a-be8f-4db2-bc5b-2ec5332dd657.png)
 Changelog:  
 1. Edit LED footprint distance between two pads = 0.61mm. 
@@ -55,3 +55,11 @@ Schematic diagran layout 2
 ![image](https://github.com/Vasanws/USB_LEDs_2835/assets/65590803/b9ab0257-a2d5-496a-b80c-b55690f03c37)
 Changelog:    
 1. Added TVS diode conneted to C2.    
+    
+PCB layout update version 6   
+![image](https://github.com/Vasanws/USB_LEDs_2835/assets/65590803/0fdf83da-06e0-4e15-a9d7-156b1a00d7a2)
+![image](https://github.com/Vasanws/USB_LEDs_2835/assets/65590803/db07e2b0-2dda-4b8c-9f12-3698f3201148)
+Changelog:    
+1. Image 1 modified the testpoint hole with overlapping square pad for soldering.   
+2. Image 2 modified L1 according to the specification https://offer-product.oss-cn-beijing.aliyuncs.com/product/offer/attachment/2140865164/file/subPdf_4274_10144_20210414-212909770.pdf with some adjustment length : 7.7mm, pads size y-axis : 3.5mm.    
+3. Remove front solder mask at the right side of the board with together with the L1.   
