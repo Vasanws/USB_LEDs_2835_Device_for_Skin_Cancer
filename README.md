@@ -8,7 +8,7 @@ Size of the layout
 Length - 100mm  
 Width - 20mm
 
-Circuit layout Version 2  
+PCB layout Version 2  
 ![image](https://user-images.githubusercontent.com/65590803/218314217-64a25081-7922-4ba2-9541-ce352652c7e1.png) 
 Changelog: 
 1. Added from 28 LEDs to 32 LEDs. 
@@ -20,13 +20,13 @@ Changelog:
 7. The copper filler for the LED connections are set to, Pad connections: Thermal reliefs, Thermal relief gap: 0.2mm, Thermal spoke width: 0.8mm. 
 8. All resistor and capacitor have been changed from 0603 to 0402 except Rx1 from 0603 to 1206. 
 
-Circuit layout Version 3  
+PCB layout Version 3  
 ![image](https://user-images.githubusercontent.com/65590803/224206291-dd83e906-76fb-4b8b-b37f-7437919a0ccc.png)
 Changelog:  
 1. Added two jumper in the layout for touch sensor. 
 2. Expend the copper fill between the LEDS. 
 
-Circuit layout Version 4  
+PCB layout Version 4  
 ![image](https://user-images.githubusercontent.com/65590803/224543723-4ba3fb3a-be8f-4db2-bc5b-2ec5332dd657.png)
 Changelog:  
 1. Edit LED footprint distance between two pads = 0.61mm. 
@@ -43,7 +43,7 @@ Changelog:
 1. Added copper fill zone to unconnected footprint of the inverter logic U3 (pin 1). Copper fill zone with settings zone priority level : 1, clearance : 0.2mm, Pad connections : Thermal reliefs, Thermal relief gap : 0.2mm
 2. Changed the size of CX1 footprint to 0603 and value to 22uF in schematic diagram.
     
-PCB layout update   
+PCB layout update version 5    
 ![image](https://user-images.githubusercontent.com/65590803/236684770-02f4bac5-2452-4966-8312-da291a6a2222.png)   
 Changelog:    
 1. Custom made footprint SOD-323 for D33 based on the measurement of this model https://www.vishay.com/docs/85751/1n4148ws.pdf    
