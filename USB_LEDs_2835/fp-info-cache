@@ -1,4 +1,4 @@
-20252869152356145
+20256237815699522
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54306,6 +54306,13 @@ inductor vishay icsm smd
 2
 2
 Inductor_SMD
+L_WHC_0630_custom
+smd shielded power inductor http://www.abracon.com/Magnetics/power/ASPI-3012S.pdf
+inductor abracon smd shielded
+0
+2
+2
+Inductor_SMD
 L_Wuerth_HCF-2013
 7443630070, http://katalog.we-online.de/pbs/datasheet/7443630070.pdf
 inductor shielded wuerth hcf
@@ -84096,6 +84103,13 @@ low profile wire loop as test point, loop diameter 2.5mm, hole diameter 1.0mm
 test point wire loop bead
 0
 1
+1
+TestPoint
+TestPoint_Loop_D2.50mm_Drill1.0mm_overlap_pad_custom
+wire loop as test point, loop diameter 2.5mm, hole diameter 1.0mm
+test point wire loop bead
+0
+2
 1
 TestPoint
 TestPoint_Loop_D2.50mm_Drill1.85mm
