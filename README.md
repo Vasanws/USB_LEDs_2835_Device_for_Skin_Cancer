@@ -63,3 +63,9 @@ Changelog:
 1. Image 1 modified the testpoint hole with overlapping square pad for soldering.   
 2. Image 2 modified L1 according to the specification WHC 0630 https://offer-product.oss-cn-beijing.aliyuncs.com/product/offer/attachment/2140865164/file/subPdf_4274_10144_20210414-212909770.pdf with some adjustment length : 7.7mm, pads size y-axis : 3.5mm.    
 3. Remove front solder mask at the right side of the board with together with the L1 to expand soldering of larger or smaller inductor component and expose empty area for power wires.   
+
+PCB layout update version 7   
+Changelog:    
+1. Update mounting hole size from 2mm to 2.2mm.
+2. Slightly move D35 closer to right side mounting hole with distance between each other 0.3mm.   
+3. Fix Electrical Rules Error in schemactic symbols by creating and saving custom symbols in project.   
