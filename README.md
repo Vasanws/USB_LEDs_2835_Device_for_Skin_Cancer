@@ -69,3 +69,12 @@ Changelog:
 1. Update mounting hole size from 2mm to 2.2mm.
 2. Slightly move D35 closer to right side mounting hole with distance between each other 0.3mm.   
 3. Fix Electrical Rules Error in schemactic symbols by creating and saving custom symbols in project.   
+    
+PCB layout update version 8 (Panelising)    
+Changelog:    
+1. Added new folder as Panel.   
+2. Used kikit to panelise the board for fabrication.    
+![image](https://github.com/Vasanws/USB_LEDs_2835/assets/65590803/757e7737-7db5-49e8-b8a8-d7cdd5e89888)
+Layout view     
+![image](https://github.com/Vasanws/USB_LEDs_2835/assets/65590803/ebd85662-90a6-4f43-9bef-39b2233b8909)
+3D view
