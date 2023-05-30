@@ -74,6 +74,7 @@ PCB layout update version 8 (Panelising)
 Changelog:    
 1. Added new folder as Panel.   
 2. Used kikit to panelise the board for fabrication.    
+    
 Layout view   
 ![image](https://github.com/Vasanws/USB_LEDs_2835/assets/65590803/757e7737-7db5-49e8-b8a8-d7cdd5e89888)   
     
