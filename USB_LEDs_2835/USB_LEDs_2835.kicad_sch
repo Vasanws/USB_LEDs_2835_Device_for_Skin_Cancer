@@ -2053,7 +2053,7 @@
     (uuid 43abfdee-8911-49ba-9ef6-3447815c3b58)
     (property "Reference" "L1" (id 0) (at 129.413 51.435 90))
     (property "Value" "L_Ferrite_Small" (id 1) (at 129.413 53.975 90))
-    (property "Footprint" "Inductor_SMD:L_WHC_0630_custom" (id 2) (at 129.413 56.515 0)
+    (property "Footprint" "custom_footprint_library:L_WHC_0630_custom" (id 2) (at 129.413 56.515 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 129.413 56.515 0)
@@ -2556,7 +2556,7 @@
     (property "Value" "1.5" (id 1) (at 130.683 89.535 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_1206_3216Metric" (id 2) (at 128.143 86.995 0)
+    (property "Footprint" "custom_footprint_library:R_1206_0805_3216Metric_custom" (id 2) (at 128.143 86.995 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 128.143 86.995 0)
@@ -3166,7 +3166,7 @@
       (reference "JP2") (unit 1) (value "solderjumper_2") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm_NumberLabels")
     )
     (path "/43abfdee-8911-49ba-9ef6-3447815c3b58"
-      (reference "L1") (unit 1) (value "L_Ferrite_Small") (footprint "Inductor_SMD:L_WHC_0630_custom")
+      (reference "L1") (unit 1) (value "L_Ferrite_Small") (footprint "custom_footprint_library:L_WHC_0630_custom")
     )
     (path "/46b40edc-42cc-446d-adb2-e52631d88862"
       (reference "R1") (unit 1) (value "23.2k") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -3184,7 +3184,7 @@
       (reference "R6") (unit 1) (value "5k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/98753c78-a4c2-4a80-8ed5-3f6f93aecf71"
-      (reference "Rx1") (unit 1) (value "1.5") (footprint "Resistor_SMD:R_1206_3216Metric")
+      (reference "Rx1") (unit 1) (value "1.5") (footprint "custom_footprint_library:R_1206_0805_3216Metric_custom")
     )
     (path "/437f8d09-8f17-4205-b86b-2fcaa45bda5d"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D2.50mm_Drill1.0mm_overlap_pad_custom")

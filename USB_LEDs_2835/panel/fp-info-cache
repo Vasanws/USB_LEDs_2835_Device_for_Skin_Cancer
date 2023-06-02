@@ -1,4 +1,4 @@
-20278148859600390
+20262979576297969
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85854,69 +85854,6 @@ varistor SIOV
 0
 2
 2
-custom_footprint_library
-D_SMA
-Diode SMA (DO-214AC)
-Diode SMA (DO-214AC)
-0
-2
-2
-custom_footprint_library
-L_WHC_0630_custom
-smd shielded power inductor http://www.abracon.com/Magnetics/power/ASPI-3012S.pdf
-inductor abracon smd shielded
-0
-2
-2
-custom_footprint_library
-R_1206_0805_3216Metric_custom
-Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-4
-2
-custom_footprint_library
-TestPoint_Loop_D2.50mm_Drill1.0mm_overlap_pad_custom
-wire loop as test point, loop diameter 2.5mm, hole diameter 1.0mm
-test point wire loop bead
-0
-2
-1
-custom_footprint_library
-mouse-bite-1mm-slot
-
-
-0
-0
-0
-custom_footprint_library
-mouse-bite-2.54mm-slot
-
-
-0
-0
-0
-custom_footprint_library
-mouse-bite-2mm-slot
-
-
-0
-0
-0
-custom_footprint_library
-mouse-bite-3mm-slot
-
-
-0
-0
-0
-custom_footprint_library
-mouse-bite-5mm-slot
-
-
-0
-0
-0
 kikit
 Board
 Mark board for extraction

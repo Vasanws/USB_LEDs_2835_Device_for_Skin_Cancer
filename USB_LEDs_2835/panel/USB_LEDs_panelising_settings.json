@@ -1,0 +1,20 @@
+{
+    "layout": {
+        "hspace": "2mm",
+        "rows": "5",
+        "vbonecut": "False"
+    },
+    "tabs": {
+        "type": "fixed"
+    },
+    "framing": {
+        "type": "railslr",
+        "hspace": "3mm"
+    },
+    "page": {
+        "anchor": "tr"
+    },
+    "post": {
+        "millradius": "1.6mm"
+    }
+}
