@@ -69,3 +69,11 @@ Changelog:
 1. Update mounting hole size from 2mm to 2.2mm.
 2. Slightly move D35 closer to right side mounting hole with distance between each other 0.3mm.   
 3. Fix Electrical Rules Error in schemactic symbols by creating and saving custom symbols in project.   
+
+PCB layout update version 8   
+![image](https://github.com/Vasanws/USB_LEDs_2835/assets/65590803/385d42d9-322b-485c-99c2-d98c96e6ac0c)   
+![image](https://github.com/Vasanws/USB_LEDs_2835/assets/65590803/605b4928-05ca-402f-9e11-93183553d102)   
+Changelog:    
+1. Cleanup copper fill to make the workspace clean.   
+2. Custom resistor footprint for Rx1 combine metrics (1206/0805).   
+
