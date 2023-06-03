@@ -1,0 +1,14 @@
+{
+    "layout": {
+        "vspace": "1mm",
+        "rows": "5"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vwidth": "20mm"
+    },
+    "post": {
+        "millradiusouter": "1mm",
+        "refillzones": "True"
+    }
+}
