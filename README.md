@@ -77,3 +77,14 @@ Changelog:
 1. Cleanup copper fill to make the workspace clean.   
 2. Custom resistor footprint for Rx1 combine metrics (1206/0805).   
 
+-------------------------------------------------------------------------------------------------------------   
+How to install Kikit in Kicad6 ?    
+1. Open Kicad 6.0   
+2. At the menu of Kicad 6.0, search **"Plugin and Content Manager"** under **tools** or can be seen from the right of the menu or **Ctrl + M**.   
+3. Select **Plugins** Tab and search for **KiKit** and click install. Select **Libraies** tab and search for **KiKit Library** and click install.   
+4. Click Apply Changes to proceed installation.   
+5. Open pcbnew and under **Tools** search **External Plugins** and click refresh plugins.   
+6. If plugins didn't shown, open **Kicad 6 Command Prompt**.    
+7. In Command Prompt, enter **pip install kikit**.    
+8. Once done, open pcbnew and refresh plugins.    
+Installation guide can be found here: https://pypi.org/project/KiKit/   
