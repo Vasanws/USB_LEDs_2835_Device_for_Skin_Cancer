@@ -1765,7 +1765,7 @@
     (property "Value" "22u" (id 1) (at 182.626 37.8522 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 180.086 36.576 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 180.086 36.576 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 180.086 36.576 0)
@@ -3034,7 +3034,7 @@
       (reference "C1") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/026f09c8-400d-46f9-844e-0be8161f9746"
-      (reference "C2") (unit 1) (value "22u") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C2") (unit 1) (value "22u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/bc5de113-9719-4067-b963-db31416212e7"
       (reference "C3") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0402_1005Metric")
