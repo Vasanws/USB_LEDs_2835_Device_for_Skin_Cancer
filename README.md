@@ -82,6 +82,12 @@ Changelog:
 1. Change R6 resistor value to 990 ohm.
 2. Change C5 capacitor value to 33nF.
 
+PCB Paneling  
+PCB paneling for fabrication.  
+![image](https://github.com/Vasanws/USB_LEDs_2835/assets/65590803/3d24ba3c-cc41-40ca-be24-2986cb22168c)  
+
+Final product fabrication  
+![image](https://github.com/Vasanws/USB_LEDs_2835/assets/65590803/160613fc-3327-4610-a461-c28c6da2120a)  
 
 -------------------------------------------------------------------------------------------------------------   
 How to install Kikit in Kicad6 ?    
