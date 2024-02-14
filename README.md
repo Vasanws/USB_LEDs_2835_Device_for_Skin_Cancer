@@ -75,7 +75,13 @@ PCB layout update version 8
 ![image](https://github.com/Vasanws/USB_LEDs_2835/assets/65590803/605b4928-05ca-402f-9e11-93183553d102)   
 Changelog:    
 1. Cleanup copper fill to make the workspace clean.   
-2. Custom resistor footprint for Rx1 combine metrics (1206/0805).   
+2. Custom resistor footprint for Rx1 combine metrics (1206/0805).
+
+PCB layout update verion 9  
+Changelog:  
+1. Change R6 resistor value to 990 ohm.
+2. Change C5 capacitor value to 33nF.
+
 
 -------------------------------------------------------------------------------------------------------------   
 How to install Kikit in Kicad6 ?    
