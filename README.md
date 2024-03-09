@@ -86,7 +86,7 @@ PCB Paneling
 PCB paneling for fabrication.  
 ![image](https://github.com/Vasanws/USB_LEDs_2835/assets/65590803/3d24ba3c-cc41-40ca-be24-2986cb22168c)  
 
-Final product fabrication  
+Final fabrication  
 ![image](https://github.com/Vasanws/USB_LEDs_2835/assets/65590803/160613fc-3327-4610-a461-c28c6da2120a)  
 
 -------------------------------------------------------------------------------------------------------------   
