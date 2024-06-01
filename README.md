@@ -93,6 +93,18 @@ After:
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/f7ae62d7-e8ca-46ea-a1fa-cf2ecc14337b)
 
+Once the circuit layout can be seen under the water, peal the paper off the from the board.
+
+![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/cbdae3b7-fc49-42a6-b24b-c77ee1fb6727)
+
+As the picture above, the toner transfer is not perfect nor close to perfect as some of the tracers or component footprint did not stick on the copper board. This shows that the heat transfer across the board does not reach the same level of heat during the laminating process.
+
+Now with the aluminium foil cover the copper board and repeat the same process here is the result.
+
+![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/8600b43e-492b-4653-8db6-5347a09e5cd2)
+
+
+
 
 
 
