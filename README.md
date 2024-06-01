@@ -22,6 +22,7 @@ Tools
 - Container or beaker for PCB tinning.
 - Hotplate.
 - Kicad 6.
+
 Materials
 - Semi-gloss paper 230gsm or lower gms.
 - Etching Solution (Ferric Chloride).
