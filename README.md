@@ -32,7 +32,8 @@ Materials
 - tap water (250ml).
 - Acetone.
 
-# Step 2: Making circuit board design
+# Step 2: Making circuit board design 
+In Kicad 6 software is where to design the circuit layout.
 
 
 
