@@ -45,6 +45,7 @@ In Kicad 6 software is where to design the circuit layout as shown below.
 
 # Step 3: Toner Tranfer 
 In this step will show the method how to toner transfer the circuit layout from the software onto a physical board. Firstly, printout the circuit layout onto semi gloss paper. For better result, ensure that the ink are darker black after printout and stick on the semi gloss paper and no extras ink act of debris that interfere the layout's connections. If the printout is not good, clean the roller in the printer to remove ink debris or check if enough ink.
+
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/8c0275ac-150f-4261-b313-6431896c0b54)  
 
 Before proceed to to transfer the circuit layout on the board, the copper board surface requires to be clean from oxidation and surface debris. To do that, use sandpaper and sand the copper board surface until the surface turns into a shining copper colour. Once it is done, rinse the copper board with tap water apply soap and scrub with a sponge to ensure left no dirt on the copper board surface. The picture below shows before and after of the copper board surface. 
