@@ -103,6 +103,17 @@ Now with the aluminium foil cover the copper board and repeat the same process h
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/8600b43e-492b-4653-8db6-5347a09e5cd2)
 
+Laslty, use a tipped marker pen or permanent marker pen to do some touch up if some of the ink does not stick on the copper board. For example highlighting tracks or empty space or component footprints.
+
+In conclusion for Setp 3, to reduce extra work from redo if the toner transfer fail, do the following:
+- Clean the copper board surface with sandpaper and wash with soap and scrub with sponge.
+- Cover the copper board with aluminium foil once the printed circuit layout is place on the copper board.
+- During the laminating process, ensure that the copper board go through at least 40 counts consistently.
+- Once done, cool the copper board and place the copper board into a container of tap water to soften the gloss paper.
+- Once the printed circuit layout can be see through from the gloss paper, slowly peal the gloss paper.
+- Double check if there is any defect on the circuit layout and touch up with a tipped marker pen.
+
+# Step 4: Etching
 
 
 
