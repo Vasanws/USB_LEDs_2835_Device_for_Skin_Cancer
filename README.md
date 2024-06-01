@@ -38,6 +38,7 @@ Materials
 
 # Step 2: Making circuit board design 
 In Kicad 6 software is where to design the circuit layout.
+![image](https://user-images.githubusercontent.com/65590803/236684770-02f4bac5-2452-4966-8312-da291a6a2222.png) 
 
 
 
