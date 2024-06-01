@@ -35,11 +35,14 @@ Materials
 - Sanding paper.
 - Tipped marker pen.
 - Aluminium foil.
+- Copper board.
 
 # Step 2: Making circuit board design 
-In Kicad 6 software is where to design the circuit layout.
-![image](https://user-images.githubusercontent.com/65590803/236684770-02f4bac5-2452-4966-8312-da291a6a2222.png) 
+In Kicad 6 software is where to design the circuit layout as shown below.
+![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/506123ea-0bc3-49b8-97a5-fcb4dbbe8ba5) 
 
+# Step 3: Toner Tranfer 
+In this step will show the method how to transfer the circuit layout from the software onto a physical board.
 
 
 
