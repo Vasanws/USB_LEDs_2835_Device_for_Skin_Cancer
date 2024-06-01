@@ -73,6 +73,29 @@ Place the aluminium foil on the surface where the printout cricuit layout gloss 
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/5254c2e4-b9a5-4bd4-98bc-ea46052f413f)
 
+Then, place the board either front or back of the laminated machine depending on the model features and feed it into the laminated machine with the maximum temperature around 200 degree celcius to 220 degree celcius repeatedly. Lowest count is 35 counts of feed. This is because the laminated machine is moving at a moderate rolling speed so it require to feed it multiple counts. To make it a single count, the motor of the laminated machine requires to me modify to the slowest rolling speed.
+
+Set laminated machine temperature to maximum as shown below:
+
+![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/0f698eb9-ae72-4fb7-a9c3-d6531fe26f5b)
+
+Here is an example of a trial without the aluminium foil. In this example uses a smaller scale of a singular board as the method shares the same. 
+
+![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/5101d9c0-f6d8-4d68-badb-7a2c30a4f37e)
+
+After multiple counts the copper board being feed into the laminated machine, move the copper board away from the laminated machine and cool the copper board. After the copper board is cool off, place the copper board into a container of tap water and let the gloss paper become soft and safely to peal off for about 10 minutes to 15 minutes. To indicate when will the gloss paper to be peal off, look at the contrast of the circuit layout once it become clear to see that indicate the gloss paper can be peal off.
+
+Before:
+
+![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/c509b5ed-bfb3-421b-8a69-c3d225a74303)
+
+After:
+
+![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/f7ae62d7-e8ca-46ea-a1fa-cf2ecc14337b)
+
+
+
+
 
 
 
