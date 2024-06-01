@@ -50,9 +50,11 @@ In this step will show the method how to toner transfer the circuit layout from 
 Before proceed to to transfer the circuit layout on the board, the copper board surface requires to be clean from oxidation and surface debris. To do that, use sandpaper and sand the copper board surface until the surface turns into a shining copper colour. Once it is done, rinse the copper board with tap water apply soap and scrub with a sponge to ensure left no dirt on the copper board surface. The picture below shows before and after of the copper board surface. 
 
 Before:
+
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/3cda587d-1e96-4261-bc12-8dd3d214c3f9) 
 
 After: 
+
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/6140548e-d04f-4ea8-bdf2-b1b89bf230cf)
 
 
