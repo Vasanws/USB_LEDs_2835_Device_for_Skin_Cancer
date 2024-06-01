@@ -1,4 +1,4 @@
-# USB_LEDs_2835
+# USB LED Device for Skin Cancer
 This is a layout of a USB LEDs with SMD LED component imperial code 2835. 
 This is the showcase of the finished layout.  
 PCB layout version 1    
