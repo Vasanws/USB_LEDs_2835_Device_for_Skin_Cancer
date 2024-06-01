@@ -1,4 +1,8 @@
 # USB LED Device for Skin Cancer  
+In this project will show how to made Printed Circuit Board (PCB) for USB LED for Skin Cancer.  
+
+# How does USB LED for Skin Cancer works?  
+The LEDs light wavelength was chosen specifically by the power of the light intensity it emits. A special cream applys on the affected area of the human skin and once the speical cream expose by the LEDs light, the special cream enter the skin and destroys the cancer cells.  
 
 This is a layout of a USB LEDs with SMD LED component imperial code 2835. 
 This is the showcase of the finished layout.  
