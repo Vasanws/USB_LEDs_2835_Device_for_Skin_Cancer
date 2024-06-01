@@ -22,6 +22,7 @@ Tools
 - Container or beaker for PCB tinning.
 - Hotplate.
 - Kicad 6.
+- Inkscape.
 - Multimeter.
 
 Materials
@@ -44,7 +45,7 @@ In Kicad 6 software is where to design the circuit layout as shown below.
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/506123ea-0bc3-49b8-97a5-fcb4dbbe8ba5) 
 
 # Step 3: Toner Tranfer 
-In this step will show the method how to toner transfer the circuit layout from the software onto a physical board. Firstly, printout the circuit layout onto semi gloss paper. For better result, ensure that the ink are darker black after printout and stick on the semi gloss paper and no extras ink act of debris that interfere the layout's connections. If the printout is not good, clean the roller in the printer to remove ink debris or check if enough ink.
+In this step will show the method how to toner transfer the circuit layout from the software onto a physical board. Firstly, printout the circuit layout onto semi gloss paper. For better result, ensure that the ink are darker black after printout and stick on the semi gloss paper and no extras ink act of debris that interfere the layout's connections. If the printout is not good, clean the roller in the printer to remove ink debris or check if enough ink. To printout duplicate circuit layout in a single paper, use Inkscape to duplicate the circuit layout as shown below:
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/8c0275ac-150f-4261-b313-6431896c0b54)  
 
