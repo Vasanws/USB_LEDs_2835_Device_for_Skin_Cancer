@@ -1,9 +1,50 @@
 # USB LED Device for Skin Cancer  
-In this project will show how to made Printed Circuit Board (PCB) for USB LED for Skin Cancer.  
+In this project will show how to made Printed Circuit Board (PCB) for USB LED for Skin Cancer done from software design to transferring onto copper board as a prototype.
 
 # How does USB LED for Skin Cancer works?  
 The LEDs light wavelength was chosen specifically by the power of the light intensity it emits. A special cream applys on the affected area of the human skin and once the speical cream expose by the LEDs light, the special cream enter the skin and destroys the cancer cells.  
 
+# How to do it?  
+ There are many methods out there on creating PCB, for the best result is by using heat method with high temperature around 220 degree celcius. The tools can be use are iron or laminated machine (heavy duty). For this project, using laminated machine is one of the best tool to produce consistency in tranferring the circuit onto a copper board.  
+
+# Tools require  
+- Laminated Machine (heavy duty).
+- Cutting mat.
+- Cutting knife.
+- Overhead projector or torchlight.
+- Laser printer.
+- Milling machine (drill)
+- Gloves.
+- Eye protection.
+- Etching tray.
+- Container for water.
+- Container or beaker for PCB tinning.
+- Hotplate.
+
+# Materials require
+- Semi-gloss paper 230gsm or lower gms.
+- Etching Solution (Ferric Chloride).
+- Thiourea (12.5 grams).
+- Tartaric acid (8.8 grams).
+- Tin(II) Chloride (1.3 grams). 
+- tap water (250ml).
+- Acetone.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 This is a layout of a USB LEDs with SMD LED component imperial code 2835. 
 This is the showcase of the finished layout.  
 PCB layout version 1    
