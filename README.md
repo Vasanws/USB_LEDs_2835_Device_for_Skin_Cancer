@@ -69,6 +69,9 @@ After:
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/59210e29-2cdd-4b8e-a4ca-ca68ea7f4c29)
 
+Place the aluminium foil on the surface where the printout cricuit layout gloss paper is. After few try and error, this way allows the heat transfer across the board evenly for aa large scale printout circuit layout and also for smaller singular printout circuit layout.
+
+![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/5254c2e4-b9a5-4bd4-98bc-ea46052f413f)
 
 
 
