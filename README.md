@@ -44,6 +44,7 @@ In Kicad 6 software is where to design the circuit layout as shown below.
 # Step 3: Toner Tranfer 
 In this step will show the method how to toner transfer the circuit layout from the software onto a physical board.
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/8c0275ac-150f-4261-b313-6431896c0b54) 
+
 Firstly, printout the circuit layout onto semi gloss paper. For better result, ensure that the ink are darker black after printout and stick on the semi gloss paper and no extras ink act of debris that interfere the layout's connections.
 
 
