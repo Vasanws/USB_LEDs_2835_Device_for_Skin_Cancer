@@ -22,6 +22,7 @@ Tools
 - Container or beaker for PCB tinning.
 - Hotplate.
 - Kicad 6.
+- Multimeter.
 
 Materials
 - Semi-gloss paper 230gsm or lower gms.
@@ -31,6 +32,9 @@ Materials
 - Tin(II) Chloride (1.3 grams). 
 - tap water (250ml).
 - Acetone.
+- Sanding paper.
+- Tipped marker pen.
+- Aluminium foil.
 
 # Step 2: Making circuit board design 
 In Kicad 6 software is where to design the circuit layout.
