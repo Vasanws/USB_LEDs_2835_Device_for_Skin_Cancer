@@ -58,6 +58,17 @@ After:
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/6140548e-d04f-4ea8-bdf2-b1b89bf230cf)
 
+Then, place the printed circuit layout on the surface of the copper board. Make sure that the printed circuit layout ink directly touch the copper board surface as shown below.
+
+Before:
+
+![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/720d04c2-7f01-4566-885d-ac956dd5da95)
+
+After:
+
+![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/59210e29-2cdd-4b8e-a4ca-ca68ea7f4c29)
+
+
 
 
 
