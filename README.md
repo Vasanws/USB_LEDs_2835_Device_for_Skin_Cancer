@@ -151,7 +151,7 @@ After:
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/f2fb7ed8-32fa-4746-a577-c73bde80dec2)
 
 # Step 7: PCB Tinning
-
+Why is PCB tinning is needed? PCB tinning protects the expose copper from being oxidation and corrosion. Tinning will prolong the copper tracers to remain in good shape and functionality in its conductivity. Without tinning, the oxidation in the copper can results in difficulties in soldering.
 
 
 
