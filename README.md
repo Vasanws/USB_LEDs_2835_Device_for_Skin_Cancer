@@ -135,6 +135,10 @@ Once the etching is done, use acetone with cloth or tissue to remove the ink.
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/cacd0e18-ccc4-4d45-8e57-4c98807bb40b)
 
+Use multimeter to check each connectivity whether there any copper being etch away. This is to ensure that the board does not have any defects or fixable and reuseable before solder the components on the board. May use lights to place under the board to check the overall copper trace. For example, the board is being place under a overhead projector:
+
+![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/cef63fd4-f2d7-434a-996c-4df37fdb5b90)
+
 # Step 5: Drilling the Holes
 For this step, may use a Milling Drill machine or Hand Drill. In this project for the drilling uses Milling Drill machine for better drilling accuracy by hand. Drill all the board's holes.
 
