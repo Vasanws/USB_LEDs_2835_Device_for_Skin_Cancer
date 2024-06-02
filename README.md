@@ -4,7 +4,7 @@ In this project will show how to made Printed Circuit Board (PCB) for USB LED fo
 # How does USB LED for Skin Cancer works?  
 The LEDs light wavelength was chosen specifically by the power of the light intensity it emits. A special cream applys on the affected area of the human skin and once the speical cream expose by the LEDs light, the special cream enter the skin and destroys the cancer cells.  
 
-# How to do it?  
+# How to do it as Prototype?  
 There are many methods out there on creating PCB, for the best result is by using heat method with high temperature around 220 degree celcius. The tools can be use are iron or laminated machine (heavy duty). For this project, using laminated machine is one of the best tool to produce consistency in tranferring the circuit onto a copper board.  
 
 # Step 1: Tools and Materials requires
