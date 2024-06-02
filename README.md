@@ -24,6 +24,7 @@ Tools
 - Kicad 6.
 - Inkscape.
 - Multimeter.
+- Sanding machine.
 
 Materials
 - Semi-gloss paper 230gsm or lower gms.
@@ -133,6 +134,10 @@ Once the etching is done, use acetone with cloth or tissue to remove the ink.
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/cacd0e18-ccc4-4d45-8e57-4c98807bb40b)
 
+# Step 5: Drilling the Holes
+For this step, may use a Milling Drill machine or hand drill. In this project for the drilling uses Milling Drill machine for better drilling accuracy by hand.
+
+![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/59098fce-08d2-4dd1-b628-290a7aebb61a)
 
 
 
