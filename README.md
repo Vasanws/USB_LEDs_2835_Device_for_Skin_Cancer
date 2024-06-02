@@ -83,7 +83,7 @@ Here is an example of a trial without the aluminium foil. In this example uses a
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/5101d9c0-f6d8-4d68-badb-7a2c30a4f37e)
 
-After multiple counts the copper board being feed into the laminated machine, move the copper board away from the laminated machine and cool the copper board. After the copper board is cool off, place the copper board into a container of tap water and let the gloss paper become soft and safely to peal off for about 10 minutes to 15 minutes. To indicate when will the gloss paper to be peal off, look at the contrast of the circuit layout once it become clear to see that indicate the gloss paper can be peal off.
+After multiple counts the copper board being feed into the laminated machine, move the copper board away from the laminated machine and cool the copper board. After the copper board is cool off, place the copper board into a container of tap water and let the gloss paper become soft and soggy and safely to peal off for about 10 minutes to 15 minutes. To indicate when will the gloss paper to be peal off, look at the contrast of the circuit layout once it become clear to see through and the gloss paper is soggy that indicates the gloss paper can be peal off and the ink will not be remove from the copper board.
 
 Before:
 
@@ -114,6 +114,20 @@ In conclusion for Setp 3, to reduce extra work from redo if the toner transfer f
 - Double check if there is any missing ink on the circuit layout and touch up with a tipped marker pen.
 
 # Step 4: Etching
+Before etching, recommend to cut the copper board which contains the circuit layout only to reduce waste of copper board and easier for etching for each circuit layout. Use PCB Cutter or PCB Shear or ready cut the size of the copper board of the desire size before implementing Step 3 Toner Transfer.
+
+Steps to do etching:
+- Place the copper board into an etching tray.
+- Pour an amount Ferric Chloride into the etching tray.
+- Tilt the etching tray left and right or vice versa to let the acid reaction active.
+- Do this for about 10 to 15 minutes or lesser depending on how strong the acid reaction is.
+- Check the copper board time to time whether it is completely etch off the expose copper.
+- Use glove or plactic clamp to remove the board once it is done and leaving it for too long may remove the ink protected area.
+- Wash the board with tap water to remove the remaining acid on the board's surface.
+
+![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/747549d4-1165-4aee-bda7-a814f5a912c5)
+
+![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/709bfbde-e074-4352-8ea8-6e4824e1a1a2)
 
 
 
