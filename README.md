@@ -74,7 +74,7 @@ Place the aluminium foil on the surface where the printout cricuit layout gloss 
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/5254c2e4-b9a5-4bd4-98bc-ea46052f413f)
 
-Then, place the board either front or back of the laminated machine depending on the model features and feed it into the laminated machine with the maximum temperature around 200 degree celcius to 220 degree celcius repeatedly. Lowest count is 35 counts of feed. This is because the laminated machine is moving at a moderate rolling speed so it require to feed it multiple counts. To make it a single count, the motor of the laminated machine requires to me modify to the slowest rolling speed.
+Then, place the board either front or back of the laminated machine depending on the model features and feed it into the laminated machine with the maximum temperature around 200 degree celcius to 220 degree celcius repeatedly. Lowest count is 35 counts of feed. This is because the laminated machine is moving at a moderate rolling speed so it require to feed it multiple counts. To make it a single count, the motor of the laminated machine requires to be modify to the slowest rolling speed. Ensure that wear gloves to avoid skin burn during the handling.
 
 Set laminated machine temperature to maximum as shown below:
 
