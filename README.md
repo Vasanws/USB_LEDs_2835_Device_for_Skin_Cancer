@@ -111,7 +111,7 @@ In conclusion for Setp 3, to reduce extra work from redo if the toner transfer f
 - During the laminating process, ensure that the copper board go through at least 40 counts consistently.
 - Once done, cool the copper board and place the copper board into a container of tap water to soften the gloss paper.
 - Once the printed circuit layout can be see through from the gloss paper, slowly peal the gloss paper.
-- Double check if there is any defect on the circuit layout and touch up with a tipped marker pen.
+- Double check if there is any missing ink on the circuit layout and touch up with a tipped marker pen.
 
 # Step 4: Etching
 
