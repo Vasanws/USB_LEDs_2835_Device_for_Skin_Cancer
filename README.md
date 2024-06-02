@@ -150,6 +150,7 @@ After:
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/f2fb7ed8-32fa-4746-a577-c73bde80dec2)
 
+# Step 7: PCB Tinning
 
 
 
@@ -169,7 +170,7 @@ After:
 
 
 
-
+---------------------------------------------------------------------------------------------------------------------
  
 This is a layout of a USB LEDs with SMD LED component imperial code 2835. 
 This is the showcase of the finished layout.  
