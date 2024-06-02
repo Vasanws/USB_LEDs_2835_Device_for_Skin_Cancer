@@ -129,6 +129,11 @@ Steps to do etching:
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/709bfbde-e074-4352-8ea8-6e4824e1a1a2)
 
+Once the etching is done, use acetone with cloth or tissue to remove the ink.
+
+![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/cacd0e18-ccc4-4d45-8e57-4c98807bb40b)
+
+
 
 
 
