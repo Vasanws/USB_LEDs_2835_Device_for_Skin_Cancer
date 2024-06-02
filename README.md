@@ -100,18 +100,19 @@ Once the circuit layout can be seen under the water, peal the paper off the from
 
 As the picture above, the toner transfer is not perfect nor close to perfect as some of the tracers or component footprint did not stick on the copper board. This shows that the heat transfer across the board does not reach the same level of heat during the laminating process.
 
-Now with the aluminium foil cover the copper board and repeat the same process here is the result.
+Now with the aluminium foil cover the copper board and repeat the same process here is the result. Do some inspection after the pealing the gloss paper, if there is excessive paper stuck in between the circuit layout or blocking the drilling holes, use wet cloth and gentle scrap off the excessive paper that stuck on the copper board. This will later during the etching process will be easy to etch. Tested where if the excessive paper does not remove, the board will not etch properly and may excessive etching will remove the ink.
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/8600b43e-492b-4653-8db6-5347a09e5cd2)
 
 Laslty, use a tipped marker pen or permanent marker pen to do some touch up if some of the ink does not stick on the copper board. For example highlighting tracks or empty space or component footprints.
 
-In conclusion for Setp 3, to reduce extra work from redo if the toner transfer fail, do the following:
+In conclusion for Step 3, to reduce extra work from redo if the toner transfer fail, do the following:
 - Clean the copper board surface with sandpaper and wash with soap and scrub with sponge.
 - Cover the copper board with aluminium foil once the printed circuit layout is place on the copper board.
 - During the laminating process, ensure that the copper board go through at least 40 counts consistently.
 - Once done, cool the copper board and place the copper board into a container of tap water to soften the gloss paper.
 - Once the printed circuit layout can be see through from the gloss paper, slowly peal the gloss paper.
+- Clear away any excessive paper on the board.
 - Double check if there is any missing ink on the circuit layout and touch up with a tipped marker pen.
 
 # Step 4: Etching
@@ -166,14 +167,19 @@ How to create DIY tinning?
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/6b6429fc-5feb-4f19-93f8-9cc91295d40a)
 
-Tinning copper trace and non tinning copper trace.
+Comparison between tinning copper trace and non tinning copper trace.
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/4e315e6f-ce3a-4b9f-a2d4-5016812a6153)
+
+Finishing of tinning copper trace.
+
+![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/21cf6752-ba1e-4563-adda-77d1dfdb20e8)
+
 
 
 
 ---------------------------------------------------------------------------------------------------------------------
- 
+# CHANGELOG OF THE PROTOTYPE TO FINAL CIRCUIT LAYOUT
 This is a layout of a USB LEDs with SMD LED component imperial code 2835. 
 This is the showcase of the finished layout.  
 PCB layout version 1    
