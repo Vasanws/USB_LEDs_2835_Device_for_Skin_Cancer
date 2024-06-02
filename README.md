@@ -156,12 +156,14 @@ Why is PCB tinning is needed? PCB tinning protects the expose copper from being 
 How to create DIY tinning?
 - Get a beaker or plastic container.
 - Fill in 250ml of tap water.
-- Heat the water using hotplate.
+- Heat the water using hotplate 100 degree celcius.
 - Mix the chemical as following: Thiourea = 12.5 grams, Tartaric acid = 8.8 grams, Tin(II) Chloride = 1.3 grams.
 - Stir the following chemicals while heating up.
 - To know whether the chemical is ready, visual change can be seen when the liquid turns cloudy and ready to use.
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/2a314bd3-258e-4543-862f-67de2fee5015)
+
+Tinning copper trace and non tinning copper trace.
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/4e315e6f-ce3a-4b9f-a2d4-5016812a6153)
 
