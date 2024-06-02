@@ -284,4 +284,10 @@ How to install Kikit in Kicad6 ?
 6. If plugins didn't shown, open **Kicad 6 Command Prompt**.    
 7. In Command Prompt, enter **pip install kikit**.    
 8. Once done, open pcbnew and refresh plugins.    
-Installation guide can be found here: https://pypi.org/project/KiKit/   
+Installation guide can be found here: https://pypi.org/project/KiKit/
+
+-------------------------------------------------------------------------------------------------------------
+# REFERENCES
+Home-made mixture for chemical PCB tinning (acid bath) - https://robertgawron.blogspot.com/2016/04/galvanic-pcb-tinning-by-using-home-made.html
+Make Homemade PCB Tinning solution ("Liquid Tin") - https://www.reddit.com/r/electronics/comments/77tcpb/make_homemade_pcb_tinning_solution_liquid_tin/
+How to Make Double Sided Circuit Boards at Home - https://www.youtube.com/watch?v=au2ba5gWLWk
