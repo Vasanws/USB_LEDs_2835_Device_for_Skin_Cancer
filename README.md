@@ -50,7 +50,7 @@ In this step will show the method how to toner transfer the circuit layout from 
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/8c0275ac-150f-4261-b313-6431896c0b54)  
 
-Before proceed to to transfer the circuit layout on the board, the copper board surface requires to be clean from oxidation and surface debris. To do that, use sandpaper and sand the copper board surface until the surface turns into a shining copper colour. Once it is done, rinse the copper board with tap water apply soap and scrub with a sponge to ensure left no dirt on the copper board surface. The picture below shows before and after of the copper board surface. 
+Before proceed to to transfer the circuit layout on the board, the copper board surface requires to be clean from oxidation and surface debris. To do that, use sandpaper and sand the copper board surface until the surface turns into a shining copper colour. Once it is done, rinse the copper board with tap water apply soap and scrub with a sponge to ensure left no dirt on the copper board surface. Finally, apply acetone on the copper board surface and wipe with cloth or tissue. The picture below shows before and after of the copper board surface. 
 
 Before:
 
@@ -139,7 +139,7 @@ Use multimeter to check each connectivity whether there any copper being etch aw
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/cef63fd4-f2d7-434a-996c-4df37fdb5b90)
 
-This way is clear to troubleshoot the copper trace.
+This way gives a clear view to troubleshoot the copper trace. This method only works for single-sided layout.
 
 # Step 5: Drilling the Holes
 For this step, may use a Milling Drill machine or Hand Drill. In this project for the drilling uses Milling Drill machine for better drilling accuracy by hand. Drill all the board's holes.
