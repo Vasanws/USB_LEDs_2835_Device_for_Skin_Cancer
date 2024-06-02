@@ -139,6 +139,7 @@ Use multimeter to check each connectivity whether there any copper being etch aw
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/cef63fd4-f2d7-434a-996c-4df37fdb5b90)
 
+This way is clear to troubleshoot the copper trace.
 
 # Step 5: Drilling the Holes
 For this step, may use a Milling Drill machine or Hand Drill. In this project for the drilling uses Milling Drill machine for better drilling accuracy by hand. Drill all the board's holes.
@@ -179,8 +180,6 @@ Comparison between tinning copper trace and non tinning copper trace.
 Finishing of tinning copper trace.
 
 ![image](https://github.com/Vasanws/USB_LEDs_2835_Device_for_Skin_Cancer/assets/65590803/21cf6752-ba1e-4563-adda-77d1dfdb20e8)
-
-
 
 
 ---------------------------------------------------------------------------------------------------------------------
